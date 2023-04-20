@@ -1,4 +1,4 @@
-# make_your_burder
+# make_your_burger
 
 ## Project setup
 ```
